@@ -93,7 +93,7 @@ If using Firebase:
 
 ## Author
 
-**Mohana Dharshan**
+**Shamsul ALam Sajib**
 
 * [GitHub](https://github.com/sajibsaj66)
 * [LinkedIn](https://www.linkedin.com/in/shamsul-alam-sajib-662460201/)
